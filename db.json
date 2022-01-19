@@ -1,0 +1,24 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Cheese Burger",
+            "description": "Big cheese burger",
+            "ingredients": [
+                "beef",
+                "cheese",
+                "burger sauce"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Classic Burger",
+            "description": "Big classic burger",
+            "ingredients": [
+                "beef",
+                "cheese",
+                "burger sauce"
+            ]
+        }
+    ]
+}
